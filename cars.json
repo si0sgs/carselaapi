@@ -1,0 +1,144 @@
+{
+  "vehiculos": [
+    {
+      "marca": "Toyota",
+      "modelo": "Tacoma",
+      "clasificacion": "Pick up",
+      "precio": 89500,
+      "urlimagen": "img/cars/Tacoma.jpg"
+    },
+    {
+      "marca": "Ford",
+      "modelo": "F-150",
+      "clasificacion": "Pick up",
+      "precio": 125325,
+      "urlimagen": "img/cars/F-150.jpg"
+    },
+    {
+      "marca": "Chevrolet",
+      "modelo": "Silverado",
+      "clasificacion": "Pick up",
+      "precio": 144325,
+      "urlimagen": "img/cars/Silverado.jpg"
+    },
+    {
+      "marca": "Jeep",
+      "modelo": "Grand Cherokee",
+      "clasificacion": "Suv",
+      "precio": 95325,
+      "urlimagen": "img/cars/Grand-Cherokee.jpg"
+    },
+    {
+      "marca": "Toyota",
+      "modelo": "RAV4",
+      "clasificacion": "Suv",
+      "precio": 45000,
+      "urlimagen": "img/cars/RAV4.jpg"
+    },
+    {
+      "marca": "Honda",
+      "modelo": "CR-V",
+      "clasificacion": "Suv",
+      "precio": 55369,
+      "urlimagen": "img/cars/CR-V.jpg"
+    },
+    {
+      "marca": "Hyundai",
+      "modelo": "Sonata",
+      "clasificacion": "Sedan",
+      "precio": 38600,
+      "urlimagen": "img/cars/Sonata.jpg"
+    },
+    {
+      "marca": "Toyota",
+      "modelo": "Camry",
+      "clasificacion": "Sedan",
+      "precio": 42690,
+      "urlimagen": "img/cars/Camry.jpg"
+    },
+    {
+      "marca": "Honda",
+      "modelo": "Civic",
+      "clasificacion": "Sedan",
+      "precio": 34200,
+      "urlimagen": "img/cars/Civic.jpg"
+    },
+    {
+      "marca": "Nissan",
+      "modelo": "Altima",
+      "clasificacion": "Sedan",
+      "precio": 39620,
+      "urlimagen": "img/cars/Altima.jpg"
+    },
+    {
+      "marca": "Kia",
+      "modelo": "Telluride",
+      "clasificacion": "Suv",
+      "precio": 51200,
+      "urlimagen": "img/cars/Telluride.jpg"
+    },
+    {
+      "marca": "Mazda",
+      "modelo": "CX-5",
+      "clasificacion": "Suv",
+      "precio": 49630,
+      "urlimagen": "img/cars/CX-5.jpg"
+    },
+    {
+      "marca": "Subaru",
+      "modelo": "Forester",
+      "clasificacion": "Suv",
+      "precio": 49800,
+      "urlimagen": "img/cars/Forester.jpg"
+    },
+    {
+      "marca": "Volkswagen",
+      "modelo": "Jetta",
+      "clasificacion": "Sedan",
+      "precio": 38200,
+      "urlimagen": "img/cars/Jetta.jpg"
+    },
+    {
+      "marca": "Hyundai",
+      "modelo": "Elantra",
+      "clasificacion": "Sedan",
+      "precio": 29600,
+      "urlimagen": "img/cars/Elantra.jpg"
+    },
+    {
+      "marca": "Kia",
+      "modelo": "K5",
+      "clasificacion": "Sedan",
+      "precio": 31000,
+      "urlimagen": "img/cars/K5.jpg"
+    },
+    {
+      "marca": "Toyota",
+      "modelo": "Tundra",
+      "clasificacion": "Pick up",
+      "precio": 85200,
+      "urlimagen": "img/cars/Tundra.jpg"
+    },
+    {
+      "marca": "Ram",
+      "modelo": "1500",
+      "clasificacion": "Pick up",
+      "precio": 125000,
+      "urlimagen": "img/cars/1500.jpg"
+    },
+    {
+      "marca": "GMC",
+      "modelo": "Sierra",
+      "clasificacion": "Pick up",
+      "precio": 140360,
+      "urlimagen": "img/cars/Sierra.jpg"
+    },
+    {
+      "marca": "Ford",
+      "modelo": "Mustang",
+      "clasificacion": "Sedan",
+      "precio": 78600,
+      "urlimagen": "img/cars/Mustang.jpg"
+    }
+  ]
+}
